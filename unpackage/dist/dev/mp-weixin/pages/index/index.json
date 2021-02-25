@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "云上生鲜",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "preference": "/pages/index/components/preference",
+    "nearby-shop": "/pages/index/components/nearby-shop",
+    "screen": "/pages/index/components/screen",
+    "tackout": "/pages/index/components/takeout"
+  }
+}

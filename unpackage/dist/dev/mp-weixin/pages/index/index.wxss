@@ -1,0 +1,13 @@
+
+.content.data-v-57280228 {
+	margin: 0 15rpx;
+}
+
+/* 置顶 */
+.is-fixed.data-v-57280228 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+

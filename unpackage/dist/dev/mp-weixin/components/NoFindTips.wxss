@@ -1,0 +1,16 @@
+
+.no-find {
+	width: 400rpx;
+	height: 400rpx;
+	margin: 90rpx auto 0 auto;
+	font-size: 28rpx;
+	text-align: center;
+}
+.no-find image {
+	display: block;
+	width: 250rpx;
+	height: 250rpx;
+	margin: 0 auto;
+	padding-bottom: 30rpx;
+}
+

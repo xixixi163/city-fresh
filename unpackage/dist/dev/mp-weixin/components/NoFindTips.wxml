@@ -1,0 +1,1 @@
+<block wx:if="{{isShow}}"><view class="no-find"><image src="../static/coen/meoyopu.png" mode="widthFix"></image><text>{{tips}}</text></view></block>

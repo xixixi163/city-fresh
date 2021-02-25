@@ -1,0 +1,21 @@
+
+.activeclass.data-v-7599a2e6 {
+	display: block;
+	height: 100%;
+	overflow-y: auto;
+}
+.errorclass.data-v-7599a2e6 {
+	display: none;
+}
+.scoller.data-v-7599a2e6 {
+	height: 100%;
+	overflow-y: auto;
+}
+.detail-fixed.data-v-7599a2e6 {
+	position: fixed;
+	top: 230rpx;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "下单",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#7ccd7d",
+  "usingComponents": {
+    "shop-head": "/pages/shop/components/ShopHead",
+    "tabs": "/pages/shop/components/Tabs",
+    "goods": "/pages/shop/components/Goods",
+    "comment": "/pages/shop/components/Comment",
+    "introduce": "/pages/shop/components/Introduce"
+  }
+}

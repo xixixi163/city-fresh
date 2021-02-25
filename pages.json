@@ -1,0 +1,116 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "云上生鲜"
+			}
+		},
+		{
+		    "path" : "pages/shop/Shop",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "下单",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#7ccd7d"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/placeorder/placeorder",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false
+			},
+			"backgroundColor":"#f5f5f5"
+		
+		}
+		,
+		 {
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+            "path" : "pages/search/search",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "搜索",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		
+        
+        ,{
+            "path" : "pages/evaluate/evaluate",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mycomment/mycomment",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的评价",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mycollected/mycollected",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的收藏",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "同城生鲜",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar": {
+		"color": "#999794",
+		"selectedColor": "#33312e",
+		"borderStyle": "white",
+		"backgroundColor": "#fafafa",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tab/shouyea.png",
+				"selectedIconPath": "static/tab/shouyeb.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"iconPath": "static/tab/dingdana.png",
+				"selectedIconPath": "static/tab/dingdanb.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"iconPath": "static/tab/wodea.png",
+				"selectedIconPath": "static/tab/wodeb.png",
+				"text": "我的"
+			}
+		]
+	}
+}

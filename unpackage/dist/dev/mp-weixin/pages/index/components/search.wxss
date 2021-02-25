@@ -1,0 +1,118 @@
+
+.scrool-more.data-v-8b3e5b4a {
+	white-space: nowrap; 
+	width: 100%;  
+	height: 300rpx;
+	display: inline-block;
+}
+/* scoped 是样式在当前页面生效 */
+/* 定位 */
+.search-view.data-v-8b3e5b4a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 30rpx;
+	font-weight: 700;
+	height: 80rpx;
+}
+.search-view image.data-v-8b3e5b4a {
+	width: 35rpx;
+	height: 35rpx;
+}
+.search-text.data-v-8b3e5b4a {
+	padding: 0 10rpx;
+}
+/* 搜索 */
+.search-cont.data-v-8b3e5b4a {
+	height: 70rpx;
+}
+.search.data-v-8b3e5b4a {
+	height: 70rpx;
+	line-height: 70rpx;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	background: #eff3f4;
+	border-radius: 10rpx;
+}
+.search-img.data-v-8b3e5b4a {
+	margin: auto 0 auto 20rpx;
+	width: 40rpx;
+	height: 40rpx;
+}
+.search input.data-v-8b3e5b4a {
+	height: 70rpx;
+	line-height: 70rpx;
+	width: 100%;
+	font-size: 25rpx;
+	color: #666666;
+}
+/* 轮播 */
+swiper.data-v-8b3e5b4a {
+	height: 320rpx !important;
+}
+/* 九宫格 */
+.swiper-item.data-v-8b3e5b4a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-align-content: center;
+	        align-content: center;
+	height: 320rpx;
+}
+.conteng-img.data-v-8b3e5b4a {
+	width: 35rpx;
+	position: relative;
+	text-align: center;
+	/* width: calc((100% / 5) - 12px) !important; */
+	margin: 10rpx 0;
+	/* height: 120upx; */
+	-webkit-box-flex: 20%;
+	-webkit-flex: 20%;
+	        flex: 20%;
+}
+.conteng-img text.data-v-8b3e5b4a {
+	display: block;
+	margin: 0 auto;
+	padding-top: 8rpx;
+	font-size: 25rpx;
+}
+.uploadimg.data-v-8b3e5b4a {
+	width: 70rpx;
+	height: 70rpx;
+	border-radius: 50rpx;
+}
+/* 指示点 */
+.instruct-view.data-v-8b3e5b4a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	padding-top: 10rpx;
+}
+.instruct.data-v-8b3e5b4a {
+	background: #e6e6e6;
+	height: 10rpx;
+	width: 30rpx;
+	border-radius: 50rpx;
+	margin: 0 10rpx;
+}
+.active.data-v-8b3e5b4a {
+	background: #4CD964 !important;
+}
+
